@@ -14,7 +14,7 @@ Da es eine kurze Lernperiode ist, werde ich an meinem unfertigen Snake weiterarb
 
 ## 9.1.2024
 
-Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht.
+Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht. Herr Colic hat uns beigebracht was eine selbstständige Exploration ist. Ich habe das rep jetzt aufgesetzt.
 
 ## 16.1 und 23.1.2024
 
