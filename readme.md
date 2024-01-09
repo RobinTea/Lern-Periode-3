@@ -7,9 +7,10 @@ Robin Taing
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-   Ich habe keine ungenügende Noten
-3. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-4. Was wäre ein geeignetes Projekt würd diese LP3?
+2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+3. Was wäre ein geeignetes Projekt würd diese LP3?
+
+Da es eine kurze Lernperiode ist, werde ich an meinem unfertigen Snake weiterarbeiten. Das Spiel den ich in der 2. Lernperiode gemacht habe Ist noch nicht ganz fertig und es fehlen noch wichtige "features" wie zum Beispiel: Das Essen der Apfel ist noch nicht möglich, es wird nicht regristriert. Ich möchte dieses Programm gut kommentieren weil es immer mehr code wird. Ausserdem ist der Code dieses Programmes nicht übersichtlich. Ich möchte diese Dinge ändern und das Programm in dieser Lernperiode beenden. So kann ich am Ende Stolz behaupten das ich ein weiteres Projekt abgeschlossen habe.
 
 ## 9.1.2024
 
