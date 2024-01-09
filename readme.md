@@ -24,9 +24,10 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht. Herr Col
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 1              | Schlange isst Apfel  | Apfel wird gegessen     |  Schlange wird länger  |          |
+| 2              | Kommentare ist geschrieben | Programm wird geöffnet | Ich weiss was ich gemacht habe |          |
+| 3              | Code ist übersichtlich   | Ich schaue den Code an | Ich verstehe den Code   |          |
+
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -34,16 +35,17 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht. Herr Col
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-- [ ] jh
-- [ ] Achtes AP
-
+- [ ] Farben wechseln
+- [ ] Menu für Start
+- [ ] Menu für Game Over
+- [ ] weitere Modi: Wenn sich die Schlange in die Wand bewegt, kommt sie auf der anderen Seite wieder raus.
+      
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+| 5               |  Schlange ist grün   | Start |    gelbe Schlange            |          |
+| 6               |  Spiel hat noch nicht gestartet |  Start button  | Spiel Start|          |
+|              7  |  Schlange stirbt                    | wenn Schlange stirbt| User kommt ins game over menu            |          |
+| 8 |Schlange bewegt sich zur Wand (Spieler hat anderes Modi gewählt)| Schlange bewegt sich zur Wand (Map Kante oder Ecke) | Schlange kommt auf der anderen Seite wieder raus    |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
