@@ -36,7 +36,7 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht.
 
 - [ ] Fünftes AP
 - [ ] ...
-- [ ] 
+- [ ] jh
 - [ ] Achtes AP
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
