@@ -2,7 +2,7 @@
 
 Robin Taing
 
-9.1.2024 bis 30.1.2024 (Sportferien)
+(Winterferien) 9.1.2024 - 30.1.2024 (Sportferien)
 
 ## Grob-Planung
 
