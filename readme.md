@@ -18,9 +18,9 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht.
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Tutorial beenden (2AP lang)
+- [ ] Kommentare hinzufügen
+- [ ] Säubern
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
@@ -36,7 +36,7 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht.
 
 - [ ] Fünftes AP
 - [ ] ...
-
+- [ ] 
 - [ ] Achtes AP
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
