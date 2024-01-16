@@ -18,7 +18,15 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht. Herr Col
 
 ## 16.1 und 23.1.2024
 
-- [ ] Tutorial beenden (2AP lang)
+- [ ] **Tutorial beenden** (2AP lang) Es ist ein unerwarteter Fehler aufgetreten:
+      System.Windows.Markup.XamlParseException: "Zeilennummer "12" und Zeilenposition "9" von "Die Angabe eines Werts für "System.Windows.Baml2006.TypeConverterMarkupExtension" führte zu einer Ausnahme."."
+
+Es gibt plötzlich ein Problem im einem Program das ich noch nie gesehen habe "XamlReader.cs" die Linie 476 war folgender Code: 
+internal static void RewrapException(Exception e, IXamlLineInfo lineInfo, Uri baseUri)
+{
+	throw WrapException(e, lineInfo, baseUri);
+} 
+
 - [ ] Kommentare hinzufügen
 - [ ] Säubern
 
