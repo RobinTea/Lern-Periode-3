@@ -23,8 +23,11 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht. Herr Col
 
 Es gibt plötzlich ein Problem im einem Program das ich noch nie gesehen habe "XamlReader.cs" die Linie 476 war folgender Code: 
 internal static void RewrapException(Exception e, IXamlLineInfo lineInfo, Uri baseUri)
+
 {
-	throw WrapException(e, lineInfo, baseUri);
+
+ throw WrapException(e, lineInfo, baseUri);
+
 } 
 
 - [ ] Kommentare hinzufügen
