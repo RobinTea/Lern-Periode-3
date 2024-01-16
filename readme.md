@@ -34,6 +34,9 @@ internal static void RewrapException(Exception e, IXamlLineInfo lineInfo, Uri ba
 hier ist das Vieo (ich konnte es bis 44:31min bearbeiten.)
 https://www.youtube.com/watch?v=uzAXxFBbVoE
 
+dieser Link führt sie zu einem Bild der Fehlermeldung
+https://cdn.discordapp.com/attachments/1184022119688966165/1196714138223775806/image.png?ex=65b8a1e4&is=65a62ce4&hm=7e95531853f3674263db6b33db354fc34b7896c776e06b9c4176bcddf7f324bd&
+
 - [ ] Kommentare hinzufügen
 - [ ] Säubern
 
