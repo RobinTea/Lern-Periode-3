@@ -22,6 +22,7 @@ Heute konnte ich die Grob-Planung für diese kurze Lernperiode gemacht. Herr Col
       System.Windows.Markup.XamlParseException: "Zeilennummer "12" und Zeilenposition "9" von "Die Angabe eines Werts für "System.Windows.Baml2006.TypeConverterMarkupExtension" führte zu einer Ausnahme."."
 
 Es gibt plötzlich ein Problem im einem Program das ich noch nie gesehen habe "XamlReader.cs" die Linie 476 war folgender Code: 
+
 internal static void RewrapException(Exception e, IXamlLineInfo lineInfo, Uri baseUri)
 
 {
