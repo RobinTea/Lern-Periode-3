@@ -31,6 +31,9 @@ internal static void RewrapException(Exception e, IXamlLineInfo lineInfo, Uri ba
 
 } 
 
+hier ist das Vieo (ich konnte es bis 44:31min bearbeiten.)
+https://www.youtube.com/watch?v=uzAXxFBbVoE
+
 - [ ] Kommentare hinzufügen
 - [ ] Säubern
 
