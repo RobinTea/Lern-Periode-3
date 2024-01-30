@@ -126,6 +126,7 @@ Code:
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In dieser Lernperiode war ich zugegeben sehr unproduktiv ich habe ein sehr herausforndender Fehler bekommen den ich nicht so schnell fixen konnte. Die vier Wochen sind schneller vergangen als ich erwartet haben. Es ging fast schon zu schnell. Ich habe zwar richtigen Code aber ich bin trotzdem nicht fertig geworden. In der LP2 konnten wir frei auswählen was wir machen mussten.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Das nächste mal sollte ich nicht mehr WinForms benutzen. Es ist sehr aufwendig einen Fehler zu erkennen und zu beheben. In meinem Programm waren 2 Fehler, ein logischer und ein Syntaxfehler. Aus diesem Grund konnte ich nur wenige geplante Arbeitspakete beenden.
+
