@@ -77,7 +77,7 @@ Code:
 
       namespace FishPond
       {
-          internal class Program
+          internal class Pond
           {
               static void Main(string[] args)
               {
