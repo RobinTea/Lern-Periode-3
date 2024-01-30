@@ -68,7 +68,60 @@ Mitlerweile sind neue Fehler aufgetreten weil ich Code importiert habe.
 
 ## 30.1.2024
 
+Ich konnte die neuen Fehler beheben, jedoch ist der alte immer noch vorhanden und ich glaube ich bin gescheitert. Nach meinem Leherer versuchte ich den Code zu "clearen" aber in WinForms kann sich es als sehr schwierig erweisen. Alsohabe ich es einfach gelasen. 
 
+Ich habe nach übungen im Internet gesucht und folgende Seite gefunden: https://dd.countit.at/dojos/csharp
+
+Da habe ich neue Dinge wie collections, Klassenstruktur und Enumeration.
+Code:
+namespace test
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string name = "alöksdfj";
+            string race = "aölkdjf";
+
+            /*
+            string[] FishInPond =
+            {
+
+            };
+
+            string[] FishRaceInPond =
+            {
+
+            };
+            */
+
+            name = nameOffAnimal(name);
+            race = raceOffAnimal(race);
+
+
+            Console.WriteLine("\n Der " + race + " namens " + name + " wurde hinzugefügt");
+
+        }
+
+        public static string nameOffAnimal(string name)
+        {
+            
+            Console.WriteLine("Name des Tieres eingeben");
+            name = Console.ReadLine();
+
+            return name;
+        }
+
+        public static string raceOffAnimal(string race)
+        {
+
+            Console.WriteLine("Rasse des Tieres eingeben");
+            race = Console.ReadLine();
+
+            return race;
+        }
+    }
+}
 
 ## Reflexion
 
