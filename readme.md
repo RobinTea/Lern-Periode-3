@@ -74,54 +74,55 @@ Ich habe nach übungen im Internet gesucht und folgende Seite gefunden: https://
 
 Da habe ich neue Dinge wie collections, Klassenstruktur und Enumeration.
 Code:
-namespace test
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            string name = "alöksdfj";
-            string race = "aölkdjf";
 
-            /*
-            string[] FishInPond =
-            {
-
-            };
-
-            string[] FishRaceInPond =
-            {
-
-            };
-            */
-
-            name = nameOffAnimal(name);
-            race = raceOffAnimal(race);
-
-
-            Console.WriteLine("\n Der " + race + " namens " + name + " wurde hinzugefügt");
-
-        }
-
-        public static string nameOffAnimal(string name)
-        {
-            
-            Console.WriteLine("Name des Tieres eingeben");
-            name = Console.ReadLine();
-
-            return name;
-        }
-
-        public static string raceOffAnimal(string race)
-        {
-
-            Console.WriteLine("Rasse des Tieres eingeben");
-            race = Console.ReadLine();
-
-            return race;
-        }
-    }
-}
+      namespace FishPond
+      {
+          internal class Program
+          {
+              static void Main(string[] args)
+              {
+                  string name = "alöksdfj";
+                  string race = "aölkdjf";
+      
+                  /*
+                  string[] FishInPond =
+                  {
+      
+                  };
+      
+                  string[] FishRaceInPond =
+                  {
+      
+                  };
+                  */
+      
+                  name = nameOffAnimal(name);
+                  race = raceOffAnimal(race);
+      
+      
+                  Console.WriteLine("\n Der " + race + " namens " + name + " wurde hinzugefügt");
+      
+              }
+      
+              public static string nameOffAnimal(string name)
+              {
+                  
+                  Console.WriteLine("Name des Tieres eingeben");
+                  name = Console.ReadLine();
+      
+                  return name;
+              }
+      
+              public static string raceOffAnimal(string race)
+              {
+      
+                  Console.WriteLine("Rasse des Tieres eingeben");
+                  race = Console.ReadLine();
+      
+                  return race;
+              }
+          }
+      }
 
 ## Reflexion
 
