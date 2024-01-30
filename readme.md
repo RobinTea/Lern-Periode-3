@@ -47,13 +47,9 @@ https://cdn.discordapp.com/attachments/1184022119688966165/1196714138223775806/i
 | 3              | Code ist übersichtlich   | Ich schaue den Code an | Ich verstehe den Code   |          |
 
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
 ## 23.1.2024
 
-- [ ] Farben wechseln
+- [x] Farben wechseln
 - [ ] Menu für Start
 - [ ] Menu für Game Over
 - [ ] weitere Modi: Wenn sich die Schlange in die Wand bewegt, kommt sie auf der anderen Seite wieder raus.
@@ -65,13 +61,14 @@ https://cdn.discordapp.com/attachments/1184022119688966165/1196714138223775806/i
 |              7  |  Schlange stirbt                    | wenn Schlange stirbt| User kommt ins game over menu            |          |
 | 8 |Schlange bewegt sich zur Wand (Spieler hat anderes Modi gewählt)| Schlange bewegt sich zur Wand (Map Kante oder Ecke) | Schlange kommt auf der anderen Seite wieder raus    |          |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+löakdsjf dieser Fehler hat dazubeigetragen dass der Code so unübersichtlich geworden ist, dass ich nicht mehr richtig verste was genau was im Code macht. Ich habe absolut keine ahnung mehr.
+Ich werde es trotzdem weiterhin versuchen.
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Mitlerweile sind neue Fehler aufgetreten weil ich Code importiert habe.
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+
 
 ## Reflexion
 
